@@ -1,4 +1,4 @@
-# Hero Section Component �
+# Hero Section Component 
 
 A responsive Hero Section built using React & Tailwind CSS.  
 Implements two-column design, CTA buttons, and adaptive typography.
